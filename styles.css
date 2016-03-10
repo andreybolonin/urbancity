@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Velocity - Responsive Website Template for Products
  * Version: 1.5.4
  * Author: Xiaoying Riley at 3rd Wave Media
@@ -3467,5 +3467,9 @@ select {
   .bg-slider-wrapper {
     position: fixed;
   }
+}
+.number-info.horizontal i {
+    font-size: 30px;
+    line-height: 1.2;
 }
 /* Large devices (large desktops, 1200px and up) */
