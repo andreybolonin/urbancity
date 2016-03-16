@@ -1,3 +1,3 @@
 # UrbanCity
 
-Catalog comfortable indexes of city
+Comfortable indexes of cities
